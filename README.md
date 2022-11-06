@@ -48,4 +48,4 @@
 
 ### 기타
 
-<a target="_blank" href="https://icons8.com/icon/12776/calendar">Calendar</a>, <a target="_blank" href="https://icons8.com/icon/59856/pencil">Pencil</a>, <a target="_blank" href="https://icons8.com/icon/78581/remove">Remove</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>, App icon made from <a target="_blank" href="https://easyappicon.com">EasyAppIcon</a>
+<a target="_blank" href="https://icons8.com/icon/12776/calendar">Calendar</a>, <a target="_blank" href="https://icons8.com/icon/59856/pencil">Pencil</a>, <a target="_blank" href="https://icons8.com/icon/78581/remove">Remove</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>, App icon made by <a target="_blank" href="https://easyappicon.com">EasyAppIcon</a>
